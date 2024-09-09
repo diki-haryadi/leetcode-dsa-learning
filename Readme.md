@@ -22,5 +22,5 @@ To get started with solving problems in this repository:
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/yourusername/leetcode-dsa-learning.git
+https://github.com/diki-haryadi/leetcode-dsa-learning
 cd leetcode-dsa-learning
